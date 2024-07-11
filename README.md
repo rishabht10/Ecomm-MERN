@@ -2,7 +2,7 @@
 
 ## To start :
 ### cd backend
-### `node index.js` will start the server
+### `node index.js`
 ### cd shopper
 ### `npm start`
 ### cd admin
